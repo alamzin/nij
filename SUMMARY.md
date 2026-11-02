@@ -1,4 +1,26 @@
-# Summary
+# Оглавление
 
-* h
-
+* [О книге](README.md)
+* [Титульная страница](title.md)
+* [Введение](intro.md)
+* [Устройство СМИ и ДАРТ(С)-принцип](chapter0-dart.md)
+* [Заголовок](chapter1-headline.md)
+* [Текст новости](chapter2-text.md)
+* [Стиль](chapter3-style.md)
+* [Работа над ошибками](chapter4-correct.md)
+* [Мониторинг](chapter5-monitoring.md)
+* [Отношения с пресс-службами](chapter6-pr.md)
+* [Обработка информации, источники и ссылки](chapter7-sources.md)
+* [Повышение производительности труда](chapter8-getproductive.md)
+* [Инструментарий](chapter9-toolkit.md)
+* [Работа с аудиторией](chapter10-audience.md)
+* [Рабочее и нерабочее настроение](chapter11-feelbad.md)
+* [Медиаконвергенция](chapter12-converge.md)
+* [Блоги и блогеры](chapter13-blogs.md)
+* [Социальные сети](chapter14-socialnetworks.md)
+* [Приложение 1. Жанры IPTC](ps1-iptc.md)
+* [Приложение 2. Три истории](ps2-threestories.md)
+* [Приложение 3. Что прочесть](ps3-toread.md)
+* [Примечания](endnotes.md)
+* [Благодарности](thanks.md)
+* [Правовая и иная информация](legal.md)
